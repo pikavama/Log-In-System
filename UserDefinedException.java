@@ -25,8 +25,8 @@ public class UserDefinedException {
                 }
 
                 else if (attempt < maxAttempt) {
-                    System.out.println("Your password is incorrect. Please try again.");
-                    System.out.println("Warning: After " + (maxAttempt - attempt) + " unsuccessful login attempts. Your account will be locked.");
+                    System.out.println("\nYour password is incorrect. Please try again.");
+                    System.out.println("Warning: After " + (maxAttempt - attempt) + " unsuccessful login attempts. Your account will be locked.\n");
                 } 
                 
                 else {
