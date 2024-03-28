@@ -28,4 +28,4 @@ The program allows users to log in with a predefined password ("password") with 
 
 ### Developer
 
-- [Pia Katleya V. Macalanda] - [piav.macalanda@gmail.com]
+- Pia Katleya V. Macalanda - piav.macalanda@gmail.com
