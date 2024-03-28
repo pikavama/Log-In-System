@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a Java program developed for an Object-Oriented Programming (OOP) Lab Assignment for Exception Handling. The program demonstrates the use of user-defined exceptions to handle login attempts and password validation.
+This repository contains a Java program for an Object-Oriented Programming (OOP) Lab Assignment for Exception Handling. The program demonstrates the use of user-defined exceptions to handle login attempts and password validation.
 
 ### Functionality
 
@@ -26,6 +26,6 @@ The program allows users to log in with a predefined password ("password") with 
 - **MaxAttemptsExceededException.java**: Defines the custom exception for exceeding the maximum login attempts.
 - **InvalidPasswordException.java**: Defines the custom exception for an invalid password.
 
-### Developer
+### Programmer's Name
 
 - Pia Katleya V. Macalanda - piav.macalanda@gmail.com
