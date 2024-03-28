@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a Java program developed for an Object-Oriented Programming (OOP) Lab Assignment 4. The program demonstrates the use of user-defined exceptions to handle login attempts and password validation.
+This repository contains a Java program developed for an Object-Oriented Programming (OOP) Lab Assignment for Exception Handling. The program demonstrates the use of user-defined exceptions to handle login attempts and password validation.
 
 ### Functionality
 
